@@ -192,21 +192,4 @@ Run:
 python -m pytest -q
 ```
 
-## Suggested Loom demonstration
 
-1. Show `workflows.xlsx` and explain the registry fields.
-2. Show the architecture diagram.
-3. Upload an inventory CSV and demonstrate automatic WF001 selection.
-4. Show the execution trace and result.
-5. Demonstrate a second workflow such as price validation or duplicate detection.
-6. Demonstrate an error/condition, such as missing campaign dates.
-7. Show the tool registry and generic executor.
-8. Explain how a new WF011 can be added through the workflow registry without creating another chatbot.
-9. If configured, show the LLM selector and its structured workflow-selection response.
-
-## Repository submission
-
-The GitHub repository should contain the code, workflow Excel, sample inputs, tests, README, and `.env.example`. The assignment submission itself should contain only:
-
-1. GitHub repository link
-2. Loom video link
