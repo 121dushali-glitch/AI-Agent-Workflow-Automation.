@@ -1,0 +1,7 @@
+streamlit>=1.40,<2.0
+pandas>=2.0,<3.0
+openpyxl>=3.1,<4.0
+xlrd>=2.0,<3.0
+
+openai>=1.40,<3.0
+python-dotenv>=1.0,<2.0
